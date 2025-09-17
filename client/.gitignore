@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build / distribution folders
+dist/
+dev-dist/
+
+# Logs
+*.log
+package-lock.json
+
+# Environment variables
+.env
+
+# Vite config local cache (optional)
+.vite/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
