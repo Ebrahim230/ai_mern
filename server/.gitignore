@@ -8,15 +8,6 @@ package-lock.json
 # Environment variables
 .env
 
-# Database files
-db/
-
-# User data
-user_data
-
-# AI / response files (optional)
-responses.json
-
 # OS / IDE files
 .DS_Store
 Thumbs.db
